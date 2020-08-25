@@ -5,5 +5,5 @@ Building and training a convolutional neural network (CNN) in Keras from scratch
 - Tools:
   OpenCV to automatically detect faces in images and draw bounding boxes around them. 
   
-- Trainig=ng Datasets
+- Training Datasets
 - Test Datastes
